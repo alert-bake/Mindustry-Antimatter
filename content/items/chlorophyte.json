@@ -1,1 +1,7 @@
-
+{
+	"envDisabled": 16,
+	"type": "material",
+	"name": "Chlorophyte",
+	"cost": 1.5,
+	"color": "00ff55"
+}
